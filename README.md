@@ -1,5 +1,5 @@
 ### ER図
-[![Image from Gyazo](https://i.gyazo.com/6dcddc932e96e18260aaa2307392e867.png)](https://gyazo.com/6dcddc932e96e18260aaa2307392e867)
+[![Image from Gyazo](https://i.gyazo.com/632c69b2de5dfcbce575a58ebe72e56b.png)](https://gyazo.com/632c69b2de5dfcbce575a58ebe72e56b)
 
 ### 本サービスの概要
 思い出深いゲームやハマったゲーム動画を埋め込んだり、スレッドを投稿してもらい
